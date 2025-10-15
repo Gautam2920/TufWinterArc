@@ -10,7 +10,7 @@ Welcome to my **TufWinterArc** repository! This repo contains my solutions and a
 | :---: | :---: | :--- |
 | **Step 1** | ✅ Solutions Uploaded | Day-1 set of problems completed. |
 | **Step 2+** | ✅ Solutions Uploaded | Day-2 set of problems completed. |
-| **Step 3+** | 🔜 In Progress | Will be added as the challenge continues. |
+| **Step 3+** | 🔜 In Progress | Added solutions to all the lecture 1 problems. |
 
 ---
 
@@ -27,7 +27,7 @@ TufWinterArc/
 │
 ├── step_1/         # Solutions for Step 1 problems
 ├── step_2/         # Solutions for Step 2 problems
-├── step_3/         # Upcoming Step 2 solutions
+├── step_3/         # Lecture 1 solutions
 └── README.md       # This file
 
 
