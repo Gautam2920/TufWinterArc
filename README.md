@@ -9,8 +9,8 @@ Welcome to my **TufWinterArc** repository! This repo contains my solutions and a
 | Step | Status | Notes |
 | :---: | :---: | :--- |
 | **Step 1** | ✅ Solutions Uploaded | Day-1 set of problems completed. |
-| **Step 2+** | ✅ Solutions Uploaded | Day-2 set of problems completed. |
-| **Step 3+** | ✅ Solutions Uploaded | Day 3 to Day 5 set of problems completed. |
+| **Step 2** | ✅ Solutions Uploaded | Day-2 set of problems completed. |
+| **Step 3** | ✅ Solutions Uploaded | Day 3 to Day 5 set of problems completed. |
 | **Step 4+** | 🔜 In Progress | Upcoming..... |
 
 
