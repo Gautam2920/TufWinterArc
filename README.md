@@ -12,7 +12,7 @@ Welcome to my **TufWinterArc** repository! This repo contains my solutions and a
 | **Step 2** | ✅ Solutions Uploaded | Day-2 set of problems completed. |
 | **Step 3** | ✅ Solutions Uploaded | Day 3 to Day 5 set of problems completed. |
 | **Step 4** |✅ Solutions Uploaded| Day 6 to Day 9 set of problems completed. |
-| **Step 5+** | 🔜 In Progress | Upcoming..... |
+| **Step 5+** | 🔜 In Progress | Lecture 1 uploaded |
 
 
 ---
