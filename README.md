@@ -8,13 +8,14 @@ Welcome to my **TufWinterArc** repository! This repo contains my solutions and a
 
 | Step | Status | Notes |
 | :---: | :---: | :--- |
-| **Step 1** | ✅ Solutions Uploaded | Day-1 set of problems completed. |
-| **Step 2** | ✅ Solutions Uploaded | Day-2 set of problems completed. |
-| **Step 3** | ✅ Solutions Uploaded | Day 3 to Day 5 set of problems completed. |
-| **Step 4** |✅ Solutions Uploaded| Day 6 to Day 8 set of problems completed. |
-| **Step 5** | ✅ Solutions Uploaded | Day 9 to 10 set of problems completed.  |
-| **Step 6** | 🔜 In Progress | Lecture 1, 2 and 3 uploaded. |
-| **Step 7+** | 🔜 In Progress | upcoming... |
+| **Step 1** | ✅ Solutions Uploaded | Day 1 progress. |
+| **Step 2** | ✅ Solutions Uploaded | Day-2 progress. |
+| **Step 3** | ✅ Solutions Uploaded | Day 3 to Day 5 progress. |
+| **Step 4** | ✅ Solutions Uploaded | Day 6 to Day 8 progress. |
+| **Step 5** | ✅ Solutions Uploaded | Day 9 to 10 progress. |
+| **Step 6** | ✅ Solutions Uploaded | Day 11 to 14 progress. |
+| **Step 7** | 🔜 In Progress | Lecture 1 uploaded. |
+| **Step 8+** | 🔜 In Progress | Lecture 1 uploaded. |
 
 
 ---
