@@ -15,7 +15,10 @@ Welcome to my **TufWinterArc** repository! This repo contains my solutions and a
 | **Step 5** | ✅ Solutions Uploaded | Day 9 to 10 progress. |
 | **Step 6** | ✅ Solutions Uploaded | Day 11 to 14 progress. |
 | **Step 7** | ✅ Solutions Uploaded | Day 15 to Day 19 progress. |
-| **Step 8+** | 🔜 In Progress | upcoming... |
+| **Step 8** | ✅ Solutions Uploaded | Day 20 to Day 22 progress. |
+| **Step 9** | 🔜 In Progress | Lecture 1 uploaded. |
+| **Step 10** | 🔜 In Progress | upcoming... |
+
 
 
 ---
@@ -37,6 +40,10 @@ TufWinterArc/
 ├── step_2/         # Solutions for Step 2 problems
 
 ├── step_3/         # Solutions for Step 3 problems
+.
+.
+.
+.
 
 └── README.md       # This file
 
