@@ -1,4 +1,4 @@
-function infixToPrefix(infix) {
+function toPostfix(expression) {
     const precedence = (op) => {
         if (op === '^') return 3;
         if (op === '*' || op === '/') return 2;
@@ -6,20 +6,12 @@ function infixToPrefix(infix) {
         return 0;
     };
 
-    infix = infix
-        .split('')
-        .reverse()
-        .map(ch => {
-            if (ch === '(') return ')';
-            if (ch === ')') return '(';
-            return ch;
-        })
-        .join('');
+    const isRightAssociative = (op) => op === '^';
 
-    const stack = [];
+    let stack = [];
     let result = '';
 
-    for (let ch of infix) {
+    for (let ch of expression) {
         if (/[a-z0-9]/.test(ch)) {
             result += ch;
         } else if (ch === '(') {
@@ -32,7 +24,10 @@ function infixToPrefix(infix) {
         } else {
             while (
                 stack.length &&
-                precedence(stack[stack.length - 1]) >= precedence(ch)
+                precedence(stack[stack.length - 1]) > 0 &&
+                (precedence(stack[stack.length - 1]) > precedence(ch) ||
+                    (precedence(stack[stack.length - 1]) === precedence(ch) &&
+                        !isRightAssociative(ch)))
             ) {
                 result += stack.pop();
             }
@@ -42,5 +37,5 @@ function infixToPrefix(infix) {
 
     while (stack.length) result += stack.pop();
 
-    return result.split('').reverse().join('');
+    return result;
 }
